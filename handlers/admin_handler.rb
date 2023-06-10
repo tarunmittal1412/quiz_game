@@ -7,7 +7,7 @@ require 'entities/quiz_questions.rb'
 class AdminHandler
 
     def login_admin_user
-        puts "enter Admin user name " 
+        puts "Enter Admin user name " 
         i = 1
         loop do 
         user_name = gets.chomp.to_s
