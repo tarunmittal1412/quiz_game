@@ -1,0 +1,15 @@
+ruby,What is the correct syntax for defining a class in Ruby?\n A) class MyClass { }\nB) class MyClass do end\nC) class MyClass end\nD) def class MyClass end\n,C
+ruby,Which method is used to print output to the console in Ruby?\nA) print\n B) puts\n C) log\n D) display\n,B
+ruby,What does the if keyword do in Ruby?\nA) Declares a loop\nB) Raises an error\nC) Defines a class\nD) Executes code conditionally\n,D
+ruby,Which of the following is NOT a valid way to create an empty array n Ruby?\n A) []\n B) Array.new\n C) Array()\n D) empty_array()\n,D
+ruby,What is the purpose of the each method in Ruby?\nA) To iterate over elements of an array or collection\nB) To define a class method\nC) To create a new object instance\nD) To print output to the console\n,A
+oops,What is encapsulation in object-oriented programming?\n A) The process of defining relationships between classes\n B) The process of hiding the internal implementation details of an object\n C) The process of creating objects from classes\n D) The process of extending the functionality of a class\n,B
+oops,What is inheritance in object-oriented programming?\n A) The process of creating a new object from an existing object\n B) The process of defining multiple methods with the same name but different parameters\n C) The process of defining a new class based on an existing class\nD) The process of assigning values to instance variables\n,C
+oops,What is polymorphism in object-oriented programming?\nA) The process of creating objects from classes\n B) The process of defining relationships between classes\n C) The process of hiding the internal implementation details of an object\n,D) The ability of an object to take on many forms and respond differently to the same method call\n,D
+MySQL,What command is used to create a new database in MySQL?\nA) USE database_name;\nB) CREATE DATABASE database_name;\nC) ALTER DATABASE database_name;\nD) INSERT INTO database_name;\n,B
+MySQL,Which keyword is used to retrieve data from a MySQL database?\nA) RETRIEVE\nB) FETCH\nC) SELECT\nD) GET\n,C
+MySQL,Which clause is used to filter rows in a MySQL SELECT statement?\nA) ORDER BY\nB) GROUP BY\nC) HAVING\nD) WHERE\n,D
+MySQL,What is the purpose of the MySQL INSERT statement?\nA) To update existing records in a table\nB) To delete records from a table\nC) To retrieve data from a table\nD) To insert new records into a table\n,D
+MySQL,Which MySQL command is used to modify an existing table structure?\n A) ALTER TABLE\nB) MODIFY TABLE\n C) UPDATE TABLE\n D) CHANGE TABLE\n,A
+ruby,asxs,asd
+asd,adsa,add
