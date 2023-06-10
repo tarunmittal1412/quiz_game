@@ -11,7 +11,7 @@ class AdminHandler
         i = 1
         loop do 
         user_name = gets.chomp.to_s
-        puts "ENTER Admin password" 
+        puts "ENTER ADMIN password" 
         password = gets.chomp.to_s
 
             if (user_name == "a" && password == "1")
